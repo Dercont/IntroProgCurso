@@ -1,2 +1,3 @@
-# JavaTest
-IntelliJ + Java test 
+# IntroProgCurso
+ - IntelliJ + Java test 
+ - Python
